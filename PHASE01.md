@@ -1,4 +1,4 @@
-# FOP Dino T-Rex
+# Chrome Dino T-Rex
 ![preview](figs/Chrome_Dino.gif)
 ## معرفی پروژه
 در این درس شما باید به عنوان پروژه بازی معروف 
