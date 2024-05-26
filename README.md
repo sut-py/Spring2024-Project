@@ -1,2 +1,5 @@
-# FOP2024-Python-Project-SUT
-Fundamental of Python Programming - Spring 2024 - Instructor: Mr. Kazemi
+# FOP - Python Project - Spring 2024
+## Sharif University of Technology
+#### Instructor: Mohsen Kazemi
+#### Head-TA: Iman Mohammadi 
+#### Head of Project: Moeein Aali
