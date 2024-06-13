@@ -14,9 +14,12 @@ Pygame
 
 این منابع صرفا از طرف ما به شما معرفی می‌شود تا شما را در یادگیری این کتابخانه یاری کند.
 
-- [Pygame Tutorial]() 
+- [Pygame Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5) 
+- [Pygame Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIYFfecOQECsLHlAESi9cDrQ) 
 
-- [Making Dino Runner with Pygame]()
+- [Dino Runner with Pygame](https://www.youtube.com/playlist?list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz)
+
+- [Dino Runner with Pygame](https://www.youtube.com/watch?v=wnBGG7JLrkg&t=482s&pp=ygUeTWFraW5nIERpbm8gUnVubmVyIHdpdGggUHlnYW1l)
 
 تمامی تصاویر مورد نیاز شما برای پیاده‌سازی این بازی داخل فولدر assets موجود است، شما می‌توانید با کلیک برروی لینک زیر آن‌ها را دانلود کنید و از آن‌ها استفاده کنید.
 - [Project Assets](https://github.com/sut-py/Spring2024-Project/archive/refs/heads/main.zip)
